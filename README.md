@@ -11,4 +11,4 @@ This is my professional headquarters on GitHub. It is a clean, front-end project
 * **GitHub Pages:** This project is hosted directly via GitHub's deployment pipeline.
 
 ### View the Live Site
-You can view my live portfolio here: INhttps://kbbrian-dev.github.io/web-portfolio
+You can view my live portfolio here: INhttps:`//kbbrian-dev.github.io/web-portfolio`
